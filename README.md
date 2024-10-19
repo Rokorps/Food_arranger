@@ -1,5 +1,5 @@
 # Food_arranger
-Food arranger program to match nutrient targets.
+Food arranger program to match nutrient targets. An innovation for nutrition apps
 ## Example:
 Foods:
 Food A with nutrients (in 100 gram portion): aA = 18, bA = 16, cA = 3
